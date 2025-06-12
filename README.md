@@ -60,3 +60,13 @@ ________________________________________
 -	Cómo un atacante puede obtener acceso con un simple ejecutable.
 -	La importancia de no ejecutar archivos desconocidos.
 -	Cómo funciona una shell reversa (reverse shell).
+## 🧑‍🏫 Autor
+
+Explicación elaborada por [Sebastian Peinador](https://www.linkedin.com/in/sebastian-j-peinador/) para propósitos didácticos y de investigación en ciberseguridad ofensiva.
+________________________________________
+## 📄 Licencia
+
+Este material se distribuye bajo la licencia [MIT](LICENSE).
+________________________________________
+
+> Si te resulta útil, ¡no olvides darle ⭐ al repo o compartirlo!	
